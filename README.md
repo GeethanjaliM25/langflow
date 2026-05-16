@@ -24,7 +24,8 @@
 - **Deploy as an API** or export as JSON for Python apps..
 - **Deploy as an MCP server** and turn your flows into tools for MCP clients.
 - **Observability** with LangSmith, LangFuse and other integrations.
-- **Enterprise-ready** security and scalability.
+- **Enterprise-ready** security and scalability..
+- 
 
 ## 🖥️  Langflow Desktop
 
