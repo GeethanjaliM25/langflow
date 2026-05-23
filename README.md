@@ -20,7 +20,7 @@
 - **Visual builder interface** to quickly get started and iterate.
 - **Source code access** lets you customize any component using Python.
 - **Interactive playground** to immediately test and refine your flows with step-by-step control.
-- **Multi-agent orchestration** with conversation management and retrieval.
+- **Multi-agent orchestration** with conversation management and retrieval..
 - **Deploy as an API** or export as JSON for Python apps..
 - **Deploy as an MCP server** and turn your flows into tools for MCP clients.
 - **Observability** with LangSmith, LangFuse and other integrations.
